@@ -1,2 +1,2 @@
-# love-pandas
-Everything data science 
+# Zuri-Projects
+Everything computer science 
