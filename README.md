@@ -1,2 +1,2 @@
 # Zuri-Projects
-Everything computer science 
+Back end development projects
